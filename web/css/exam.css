@@ -1,0 +1,90 @@
+#session{
+                display: inline-block;
+                margin-right:  5px;                
+            }
+            h3{
+                float: left;
+            }
+            h2{
+                float: right;
+            }
+            ul{
+               height: 347px;
+               width: 60%;
+               width: 1139px;
+               border:0px;  
+                 list-style-type: none;
+            }
+            ul li{
+                margin: 5px;
+                padding: 3px;
+            }
+            #timer form{
+                float: right;
+               
+                margin: 10px;
+                font-size: 25px;
+                font-style: normal;
+            }
+            #timer form input{
+                font-size: 25px;
+                font-style: normal;
+            }
+            #options{
+                color: red;
+            }
+            #session select{  
+                float: right; 
+                margin: 19px;
+                padding: 1px 12px;                
+            }
+            a{
+                float: right;
+                 
+            }
+            .button {
+    background-color: #FFFF33; 
+    border: none;
+    color: black;
+    float: right;
+    padding: 15px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 25px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button2{
+    background-color: #FFFF00; 
+    border: none;
+    color: black;
+    float: right;
+    padding: 15px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 25px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.button-block{
+    background-color: greenyellow; 
+    border: none;
+    color: black;
+    float: left;
+    padding: 15px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 25px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
